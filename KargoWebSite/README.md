@@ -1,3 +1,3 @@
 # Screenshot
 
-![](docs/anasayfa.png)
+(docs/anasayfa.png)
