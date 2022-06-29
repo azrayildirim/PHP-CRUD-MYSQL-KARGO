@@ -1,3 +1,2 @@
 # Screenshot
-
-[]..(docs/anasayfa.png)
+![Screenshot](../docs/anasayfa.png)
